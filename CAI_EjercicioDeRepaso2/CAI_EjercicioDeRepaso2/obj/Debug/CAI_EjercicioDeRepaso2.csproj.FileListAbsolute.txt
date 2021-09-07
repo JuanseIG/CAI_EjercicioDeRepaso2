@@ -1,0 +1,7 @@
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\bin\Debug\CAI_EjercicioDeRepaso2.exe.config
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\bin\Debug\CAI_EjercicioDeRepaso2.exe
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\bin\Debug\CAI_EjercicioDeRepaso2.pdb
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\obj\Debug\CAI_EjercicioDeRepaso2.csproj.AssemblyReference.cache
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\obj\Debug\CAI_EjercicioDeRepaso2.csproj.CoreCompileInputs.cache
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\obj\Debug\CAI_EjercicioDeRepaso2.exe
+D:\Ejercicios CAI\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\CAI_EjercicioDeRepaso2\obj\Debug\CAI_EjercicioDeRepaso2.pdb
